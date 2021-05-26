@@ -1,4 +1,5 @@
-A - Esta es mi aplicaicon
+B - Esta es mi aplicaicon
 
 funcion():
-   imprimir: hola mundo
+   imprimir: Chau mundo
+   despedir
