@@ -1,0 +1,4 @@
+A - Esta es mi aplicaicon
+
+funcion():
+   imprimir: hola mundo
