@@ -1,13 +1,13 @@
-D - Estoy comiendo
+C2 y D Merge resuelto
 
-funcion():
-   imprimir: Chau mundo
-   despedir
-   
 funcion():
     imprimir: Hola mundo
     saludar
     
+funcion():
+    imprimir: Estoy durmiendo
+    dormir
+
 funcion()
     imprimir: Estoy comeniendo
     comer
