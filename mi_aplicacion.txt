@@ -1,13 +1,2 @@
-C2 y D Merge resuelto
+Separadas las acciones por achivo
 
-funcion():
-    imprimir: Hola mundo
-    saludar
-    
-funcion():
-    imprimir: Estoy durmiendo
-    dormir
-
-funcion()
-    imprimir: Estoy comeniendo
-    comer
