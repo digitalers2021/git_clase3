@@ -1,0 +1,4 @@
+funcion():
+    imprimir: Paseando perror
+    Pasea perror
+    Irse de la casa
