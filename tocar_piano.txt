@@ -1,0 +1,4 @@
+funcion():
+    imprimir: Tocando piano
+    Solo de piano
+    Acordes
