@@ -1,3 +1,7 @@
 funcion():
-    imprimir: Hola mundo
+    imprimir: Hola Pepe
     saludar
+    Cerrar la puerta
+    Irse de la casa
+
+
