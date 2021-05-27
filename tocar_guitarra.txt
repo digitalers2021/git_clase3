@@ -1,0 +1,4 @@
+funcion():
+    imprimir: Tocando guitarra
+    Solo de guitarra
+    Acordes
