@@ -5,3 +5,9 @@ funcion():
     Irse de la casa
 
 
+funcion():
+    imprimir: que los cumplas
+    cantar
+    soplar 
+    comer torta
+
