@@ -1,3 +1,6 @@
 funcion()
     imprimir: Estoy comeniendo
     comer
+    tomar cafe
+    limpiar los platos
+    
